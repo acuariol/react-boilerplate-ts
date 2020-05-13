@@ -51,6 +51,4 @@ npm run lint:fix
 npm test
 ```
 
-## More
-
  
